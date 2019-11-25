@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574688204 source:d:\progparcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
